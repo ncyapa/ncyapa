@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ncyapa.ncyapa" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings!+👋;+NC+Yapa+here;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings!+👋;+NC+Yapa+here+✌️;" />
 </h1>
 
 <h3 align="center">A passionate Web developer skilled in HTML, CSS, JavaScript, and React.</h3>
@@ -59,16 +59,16 @@
 <br>
 <div align=center>
   <img src="https://streak-stats.demolab.com?user=ncyapa&theme=transparent&border_radius=10&card_width=390" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ncyapa" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ncyapa&show_icons=true&theme=transparent" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github.com/ncyapa/github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncyapa&show_icons=true&theme=transparent" alt="top langs" />
 </div>
 
 <br/><br/>
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;Have a Great Day :)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;Have+a+Great+Day+:)">
 </h3>
 
 <br/>
